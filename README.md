@@ -12,7 +12,7 @@
 <a href="https://instagram.com/eethannugget">
   <img align="left" alt="Ethan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="nguyenethan01@gmail.com">
+<a href="mailto:nguyenethan01@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 <a href="https://leetcode.com/nguyenethan01/">
