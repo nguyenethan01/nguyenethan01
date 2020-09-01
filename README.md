@@ -9,7 +9,9 @@
 <a href="https://gitlab.com/nguyenethan01">
   <img align="left" alt="Ethan's GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
 </a>
-
+<a href="https://instagram.com/eethannugget">
+  <img align="left" alt="Ethan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <br />
 
 
