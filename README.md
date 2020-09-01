@@ -18,6 +18,8 @@
 <a href="https://leetcode.com/nguyenethan01/">
   <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
+
+<br />
 <br />
 
 Hi, I'm Ethan Nguyen, a computer science student at the University of California, Irvine!
