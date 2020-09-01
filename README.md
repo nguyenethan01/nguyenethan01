@@ -20,4 +20,6 @@
 </a>
 <br />
 
+Hi, I'm Ethan Nguyen, a computer science student at the University of California, Irvine!
+
 
