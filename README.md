@@ -22,6 +22,6 @@
 <br />
 <br />
 
-Hi, I'm Ethan Nguyen, a computer science student at the University of California, Irvine!
+I'm Ethan Nguyen, a computer science student at the University of California, Irvine!
 
 
